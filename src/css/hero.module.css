@@ -34,7 +34,7 @@
   text-transform: none;
 }
 
-.heroImg {
+.img {
   display: none;
   border-radius: 0.5rem;
   opacity: 0.9 !important;
@@ -101,7 +101,7 @@
 
 @media screen and (min-width: 992px) {
   .hero::before {
-    content: "";
+    content: '';
     position: absolute;
     top: 0;
     left: 100%;
