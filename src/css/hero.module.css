@@ -34,7 +34,7 @@
   text-transform: none;
 }
 
-img {
+.heroImg {
   display: none;
   border-radius: 0.5rem;
   opacity: 0.9 !important;
@@ -120,7 +120,7 @@ img {
     grid-row: 1/1;
     grid-column: 1 / 7;
   }
-  img {
+  .heroImg {
     display: block;
     grid-row: 1/1;
     grid-column: 8/-1;

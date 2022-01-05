@@ -20,29 +20,12 @@ const Hero = () => {
 
   return (
     <header className={styles.hero} id="herodark">
-      <div className={`styles.sectionCenter ${styles.heroCenter}`}>
+      <div className={`${styles.sectionCenter} ${styles.heroCenter}`}>
         <article className={styles.heroInfo}>
           <div>
             <div className={styles.underline}></div>
             <h1>{t('ola')}</h1>
-
             <h4 id="heroinfo">{t('desc')}</h4>
-            {/* <div className="languages-btn">
-              {languages.map((lng) => (
-                <div key={lng}>
-                  <button
-                    href="#"
-                    onClick={(e) => {
-                      e.preventDefault();
-                      changeLanguage(lng);
-                    }}
-                  >
-                    {lng}
-                  </button>
-                </div>
-              ))}
-            </div> */}
-
             <Link to="/contact" className={styles.btn} id="btnDarkHover">
               {t('contacta-me')}
             </Link>
