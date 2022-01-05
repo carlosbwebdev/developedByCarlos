@@ -1,0 +1,26 @@
+.footer {
+  /* margin-top: 4.5rem; */
+  height: 10rem;
+  background: #222;
+  text-align: center;
+  display: grid;
+  place-items: center;
+}
+.footer h4 {
+  color: var(--clr-bg-1);
+  font-weight: normal;
+  font-size: 0.8rem;
+  text-transform: none;
+}
+.footer h4 span {
+  color: var(--clr-primary-2);
+}
+.footerLinks {
+  margin: 0 auto 1rem auto;
+}
+.footer svg {
+  color: white;
+}
+.footer svg:hover {
+  color: var(--clr-primary-2);
+}
