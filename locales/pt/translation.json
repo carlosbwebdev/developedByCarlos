@@ -1,0 +1,35 @@
+{
+  "#COMENTS": "Hero Section",
+
+  "ola": "Olá, eu sou o Carlos!",
+  "desc": "Freelancer em Desenvolvimento Web, Desenvolvo Websites Profissionais com Extrema Paixão e Profissionalismo",
+  "contacta-me": "Contacta-me",
+  "Serviços": "Serviços",
+  "Projectos em Destaque": "Projectos em Destaque",
+
+  "desenvolvimento web": "Desenvolvimento Web",
+
+  "##COMENTS": "NavBar Section",
+
+  "About": "Sobre Mim",
+  "Projects": "Projectos",
+  "Contact": "Contacto",
+
+  "###ABOUT": "About Page",
+
+  "Sobre Mim": "Sobre Mim",
+
+  "###PROJECTOS": "Projects Page",
+
+  "Projectos": "Projectos",
+
+  "###CONTACT": "Contact Page",
+  "Contacta-me": "Contacta-me",
+  "enviar": "Enviar",
+  "nome": "Nome",
+  "mensagem": "Mensagem",
+
+  "#FOOTER": "Footer Section",
+
+  "todos os direitos reservados.": "Todos os Direitos Reservados."
+}

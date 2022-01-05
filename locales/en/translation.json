@@ -1,0 +1,47 @@
+{
+  "#COMENTS": "Hero Section",
+
+  "ola": "Hi, I am Carlos!",
+  "desc": "Freelancer in Web Development, I Develop Professional Websites with Extreme Passion and Professionalism",
+  "contacta-me": "Contact me",
+  "Serviços": "Services",
+  "Projectos em Destaque": "Featured Projects",
+
+  "web design": "Web design",
+  "Com a utilização de ferramentas como o Adobe Photoshop, Adobe Illustrator Figma ou Adobe XD, crio Designs perfeitos para o seu negócio. Permitindo a visualização do Website, antes de este estar totalmente desenvolvido e hospedado.": "Using tools such as Adobe Photoshop, Adobe Illustrator Figma or Adobe XD, I create perfect designs for your business. Allowing the visualization of the Website, before it is fully developed and hosted.",
+
+  "desenvolvimento web": "Web Development",
+  "Crio e desenvolvo Web Sites utilizando tecnologias como, HTML, CSS e JavaScript. Podendo assim criar Web Sites Dinâmicos, Portfólios, E-commerce e Blogs": "I create and develop Web Sites using technologies such as HTML, CSS and JavaScript. Thus being able to create Dynamic Web Sites, Portfolios, E-commerce and Blogs",
+
+  "Design Responsivo": "Responsive Design",
+  "Nos dias que correm, visualizamos Websites em vários dispositivos tais como, telemóveis, computadores e tablets. Que por sua vez tem telas de diferentes tamanhos. Através do design responsivo garanto que os web sites são visualizados na perfeição em todos esses dispositivos. ": "These days, we view websites on various devices such as mobile phones, computers and tablets. Which in turn has screens of different sizes. Through responsive design I ensure that websites are displayed flawlessly on all these devices.",
+
+  "ir para...": "Go to...",
+  "repositorio github": "GitHub Repo",
+
+  "##COMENTS": "NavBar Section",
+
+  "About": "About",
+  "Projects": "Projects",
+  "Contact": "Contacts",
+
+  "###ABOUT": "About Page",
+
+  "Olá o meu nome é Carlos Barros, sou freelancer em desenvolvimento web, vivo no norte de Portugal, tenho 31 anos. Tenho como objetivo profissional, a criação de E-commerce, permitindo abertura de novas lojas digitais ou renovações de já existentes, criação de portfólios e blogs. Contribuindo para o aumento do fluxo de negócio, bem como aumentar a visibilidade do mesmo. O despertar desta profissão começou muito cedo, aos meus 15 anos tive acesso á internet pela primeira vez. Esta despertou em mim, uma vontade enorme de saber como era o seu funcionamento. Desde logo comecei a me interessar por desenvolver websites. Plataformas como o Worpress e Microsoft Front Page permitiram-me começar a criar cópias de sites já existentes e a desenvolver o meus próprios mas sem nunca os expor profissionalmente. Estudei eletrónica, o que me permitiu ter acesso a linguagens de programação, algoritmos, sistemas digitais e como tal a resolução de problemas. Hoje em dia utilizo tecnologias como HTML, CSS e JavaScript, que são as mais utilizadas na internet para a criação de web sites. Dando-me possibilidade de os desenvolver, com o maior profissionalismo e qualidade! Pode ver em baixo, os cursos que frequentei para toda a minha aprendizagem profissional. Adoro este ramo, porque é um espaço contínuo de crescimento e aprendizagem. Considero-me uma pessoa que adora aprender e resolver problemas, gosto ainda, de ler livros técnicos e de autodesenvolvimento, o que sinto ser essencial para o meu desenvolvimento pessoal e profissional. (Pode ter acesso á minha lista de leitura aqui.) Por isto tudo e por muito mais, espero que me contacte para que me seja possível, ajuda-lo a conseguir aquilo que tanto deseja.": "Hi my name is Carlos Barros, I am a freelancer in web development, I live in the north of Portugal, I am 31 years old. My professional objective is the creation of E-commerce, allowing the opening of new digital stores or renovations of existing ones, creating portfolios and blogs. Contributing to increased business flow, as well as increasing its visibility. The awakening of this profession started very early, at the age of 15 I had access to the internet for the first time. This awakened in me a huge desire to know how it worked. I was interested in developing websites right away. Platforms like Worpress and Microsoft Front Page allowed me to start creating copies of existing sites and developing my own, but without ever exposing them professionally. I studied electronics, which allowed me to have access to programming languages, algorithms, digital systems and, as such, problem solving. Nowadays I use technologies such as HTML, CSS and JavaScript, which are the most used on the internet to create web sites. Giving me the possibility to develop them, with the greatest professionalism and quality! You can see below the courses I took for all my professional learning. I love this branch because it's a continuous space for growth and learning. I consider myself a person who loves to learn and solve problems, I also like to read technical and self-development books, which I feel is essential for my personal and professional development. (You can access my reading list here.) For all this and much more, I hope you will contact me so that it is possible for me to help you achieve what you want so much.",
+
+  "Sobre Mim": "About Me",
+
+  "###PROJECTOS": "Projects Page",
+
+  "Projectos": "Projects",
+
+  "###CONTACT": "Contact Page",
+  "Contacta-me": "Contact Me",
+  "enviar": "Send",
+  "nome": "Name",
+  "mensagem": "message",
+
+  "#FOOTER": "Footer Section",
+
+  "todos os direitos reservados.": "All Rights Reserved."
+}
