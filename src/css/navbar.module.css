@@ -111,4 +111,7 @@
   .navBtnLng button:hover {
     cursor: pointer;
   }
+  .navBtnLng button:active {
+    color: --clr-primary-2;
+  }
 }

@@ -38,7 +38,7 @@ const Hero = () => {
           placeholder="none"
           className={styles.heroImg}
         /> */}
-        <img src={image} alt="" className={styles.heroImg} />
+        <img src={image} alt="Carlos Barros" className={styles.heroImg} />
       </div>
     </header>
   );

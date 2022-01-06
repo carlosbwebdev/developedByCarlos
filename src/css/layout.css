@@ -15,8 +15,8 @@ Variables
   --light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
   --dark-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
   /* font */
-  --ff-primary: "Poppins", sans-serif;
-  --ff-logo: "Michroma", sans-serif;
+  --ff-primary: 'Poppins', sans-serif;
+  --ff-logo: 'Michroma', sans-serif;
   /* global */
   --transition: all 0.2s linear;
   --spacing: 0.2rem;
@@ -73,6 +73,11 @@ h4 {
 p {
   margin-bottom: 1.25rem;
   color: var(--clr-primary-1);
+}
+
+button,
+a {
+  cursor: pointer;
 }
 @media screen and (min-width: 800px) {
   h1 {
