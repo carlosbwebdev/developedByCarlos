@@ -11,6 +11,8 @@
   display: grid;
   align-items: center;
   margin: 0 auto;
+  position: relative;
+  top: 3rem;
 }
 .underline {
   width: 2.2rem;
@@ -124,6 +126,9 @@
     display: block;
     grid-row: 1/1;
     grid-column: 8/-1;
+    width: 100%;
+    position: relative;
+    left: 1.5rem;
   }
 }
 @media screen and (min-width: 1170px) {

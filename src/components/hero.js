@@ -1,5 +1,5 @@
 import React from 'react';
-import { graphql, useStaticQuery, Link } from 'gatsby';
+import { Link } from 'gatsby';
 import * as styles from '../css/hero.module.css';
 import SocialLinks from '../constants/socialLinks';
 // import { GatsbyImage } from 'gatsby-plugin-image';
@@ -7,21 +7,21 @@ import { useTranslation } from 'gatsby-plugin-react-i18next';
 import image from '../assets/hero.png';
 
 const Hero = () => {
-  const data = useStaticQuery(graphql`
-    {
-      file(relativePath: { eq: "hero.png" }) {
-        childImageSharp {
-          gatsbyImageData(placeholder: NONE)
-        }
-      }
-    }
-  `);
+  // const data = useStaticQuery(graphql`
+  //   {
+  //     file(relativePath: { eq: "hero.png" }) {
+  //       childImageSharp {
+  //         gatsbyImageData(placeholder: NONE)
+  //       }
+  //     }
+  //   }
+  // `);
 
   const { t } = useTranslation();
 
   return (
     <header className={styles.hero} id="herodark">
-      <div className={`${styles.sectionCenter} ${styles.heroCenter}`}>
+      <div className={styles.heroCenter}>
         <article className={styles.heroInfo}>
           <div>
             <div className={styles.underline}></div>
