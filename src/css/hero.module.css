@@ -12,7 +12,7 @@
   align-items: center;
   margin: 0 auto;
   position: relative;
-  top: 3rem;
+  top: 1rem;
 }
 .underline {
   width: 2.2rem;
@@ -99,6 +99,11 @@
   /* .heroCenter h1 {
     font-size: 2rem;
   } */
+
+  .heroCenter {
+    position: relative;
+    top: 3.2rem;
+  }
 }
 
 @media screen and (min-width: 992px) {
