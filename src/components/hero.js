@@ -27,7 +27,7 @@ const Hero = () => {
             <div className={styles.underline}></div>
             <h1>{t('ola')}</h1>
             <h4 id="heroinfo">{t('desc')}</h4>
-            <Link to="/contact" className={styles.btn} id="btnDarkHover">
+            <Link to="/contact" className={styles.btn}>
               {t('contacta-me')}
             </Link>
             <SocialLinks />
